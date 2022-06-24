@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **rajnikantmahato/Rajnikantmahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+(<br><br>
+<h3>Visitors :</h3>
+<br>
+<img src="https://profile-counter.glitch.me/rajnikantmahato/count.svg" alt="Visitors">
