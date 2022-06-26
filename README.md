@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-(<br><br>
+<br><br>
 <h3>Visitors :</h3>
 <br>
 <img src="https://profile-counter.glitch.me/rajnikantmahato/count.svg" alt="Visitors">
